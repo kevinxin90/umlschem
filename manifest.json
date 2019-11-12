@@ -1,8 +1,8 @@
 {
     "version": "0.1",
     "__metadata__" : {
-        "license_url" : "https://www.mygene.info",
-        "licence" : "CC BY-NC 4.0",
+        "license_url" : "https://www.nlm.nih.gov/databases/umls.html",
+        "licence" : "",
         "url" : "https://skr3.nlm.nih.gov/SemMedDB/"
     },
     "dumper" : {
